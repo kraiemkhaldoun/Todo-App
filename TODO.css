@@ -1,0 +1,32 @@
+.section1{
+    background-color:#4696E5;
+    margin-top: -2%;
+    height: 50%;
+
+}
+#inp{
+    width: 91%;
+    height: 50%;
+    text-align: left;
+    color: aqua;
+    padding: 1%;
+    MARGIN-LEFT: 3%;
+    
+}
+
+
+.tit{
+    text-align: right;
+    color: white;
+
+}
+h1{
+    Font-size: 35px;
+    Font-weight: 400;
+    Line-height: 20px;
+}
+.btn-add{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 4%;
+}
